@@ -1,0 +1,22 @@
+Po pierwszym uruchomieniu aplikacji
+2022-10-27 12:06:00.252 20482-20482 MainActivity            com.example.zadanie1                 D  Metoda onCreate wywołana
+2022-10-27 12:06:01.628 20482-20482 MainActivity            com.example.zadanie1                 D  Metoda onStart wywołana
+2022-10-27 12:06:01.632 20482-20482 MainActivity            com.example.zadanie1                 D  Metoda onResume wywołana
+Po wciśnięciu przycisku Cofnij
+2022-10-27 12:07:33.632 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onPause wywołana
+2022-10-27 12:07:34.302 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onStop wywołana
+Po ponownym uruchomieniu aplikacji
+2022-10-27 12:09:54.232 21781-21781 MainActivity            com.example.zadanie1                 D  Metoda onStart wywołana
+2022-10-27 12:09:54.233 21781-21781 MainActivity            com.example.zadanie1                 D  Metoda onResume wywołana
+Po wciśnięciu przycisku ekranu głównego Home
+2022-10-27 12:08:02.849 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onPause wywołana
+2022-10-27 12:08:03.488 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onStop wywołana
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+2022-10-27 12:07:46.029 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onStart wywołana
+2022-10-27 12:07:46.032 21074-21074 MainActivity            com.example.zadanie1                 D  Metoda onResume wywołana
+Zmiana orientacji
+2022-10-27 13:26:24.873  4523-4523  MainActivity            com.example.zadanie1                 D  Metoda onPause wywołana
+2022-10-27 13:26:24.878  4523-4523  MainActivity            com.example.zadanie1                 D  Metoda onStop wywołana
+2022-10-27 13:26:24.879  4523-4523  MainActivity            com.example.zadanie1                 D  Metoda onDestroy wywołana
+2022-10-27 13:26:24.996  4523-4523  MainActivity            com.example.zadanie1                 D  Metoda onStart wywołana
+2022-10-27 13:26:24.999  4523-4523  MainActivity            com.example.zadanie1                 D  Metoda onResume wywołana
